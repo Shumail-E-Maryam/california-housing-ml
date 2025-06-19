@@ -26,14 +26,4 @@ This project is an end-to-end Machine Learning pipeline to predict median housin
 | Decision Tree     | 0.00  | 0.00 |
 | Random Forest     | 0.19  | 0.12 |
 
-## 🚀 App Screenshot
 
-![App Screenshot](Screenshot.png)
-
-## 🧪 Run Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/california-housing-ml.git
-cd california-housing-ml
-pip install -r requirements.txt
-streamlit run app.py
